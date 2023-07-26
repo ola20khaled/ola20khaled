@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ola20khaled
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Data Analysing using Python, and ML
 - 📫 How to reach me ola_khaled20@hotmail.com
 
 <!---
